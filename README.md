@@ -100,30 +100,6 @@ AgentForge explores how multiple AI systems can cooperate through declarative DA
 <tr>
 <td width="50%" valign="top">
 
-### 🚘 DivesaHub
-
-**Local-first operational system for automotive post-sales workflows.**
-
-A contract-driven desktop architecture designed to transform raw operational exports into reliable, prioritized and auditable work queues while keeping customer data outside the source repository.
-
-**Core concepts**
-
-- deterministic rules engine
-- RFM-style prioritization
-- local-first architecture
-- explicit reason codes
-- immutable facts / versioned decisions
-- synthetic test fixtures only
-- PII scanning in CI
-- contract-first development
-
-`C#` · `.NET 10` · `WPF` · `SQLite` · `EF Core` · `DuckDB` · `xUnit`
-
-> Status: contracts + architecture foundation · private
-
-</td>
-<td width="50%" valign="top">
-
 ### ◼ Joffre Digital Platform
 
 **The digital presence and product infrastructure of Joffre Negócios Digitais.**
